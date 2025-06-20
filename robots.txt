@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mattcalder.com/sitemap.xml
+Sitemap: https://inspace.github.io/sitemap.xml
